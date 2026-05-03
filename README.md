@@ -9,3 +9,5 @@ It has an almost 1:1 (but empty) replica of the Metro V2 dashboard, using a fram
 5%
 
 ### The Xbox 360 Simulator was created by Ohyeah2600. Do no remix or claim as your creation.
+
+Oh yeah, to swipe, you have to use a finger swipe.
